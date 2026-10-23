@@ -1,0 +1,4 @@
+.env
+.venv/
+ant_docs/
+chroma_db/

@@ -1,0 +1,9 @@
+anthropic
+chromadb
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+openai
+tiktoken
